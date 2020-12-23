@@ -11,4 +11,4 @@ In order to recognize and find the similarity between different faces we used th
 
 First of all, we should obtain a facial image dataset : We need a collection of facial images containing different kinds of faces. For this project we get a collected data of 37 different faces on 8x8 different light positions. That means 37 people with 64 different shadow pictures, so in total 2868 images of faces.
 
-![alt text](https://github.com/yelnarMurat/final2-eiggenFace/blob/main/Снимок экрана 2020-12-23 в 17.52.13.png?raw=true)
+![alt text](https://github.com/yelnarMurat/final2-eiggenFace/blob/main/1.png?raw=true)
