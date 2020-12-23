@@ -5,3 +5,6 @@ The human face is an extremely complex and dynamic structure with characteristic
 
 ## Background. 
 The algorithm is based on an eigenfaces approach which represents a PCA method in which a small set of significant features are used to describe the variation between face images. One of the simplest and most effective PCA approaches used in face recognition systems is the so-called eigenface approach. This approach transforms faces into a small set of essential characteristics, eigenfaces, which are the main components of the initial set of learning images (training set). 
+
+## Implementation.
+In order to recognize and find the similarity between different faces we used the Eigenfaces algorithm. The implementation of this algorithm was based on principal components analysis (PCA). To realize this project we have used Jupyter Notebooks with python libraries like matplotlib, numpy, os, scipy.io, which will be needed to show the plots and calculate PCA.
